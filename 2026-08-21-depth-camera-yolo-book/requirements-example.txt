@@ -1,0 +1,5 @@
+# Example only — generate the exact environment with:
+# pip freeze > requirements.txt
+opencv-python
+ultralytics
+numpy
